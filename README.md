@@ -2,8 +2,10 @@
 
 ## Podstawy języka Python  
 
-Kurs ten zawiera skompilowane notatki dotyczące podstawowych aspektów języka Python zaczynając od błędów i wyjątków a kończąc na podstawach programowania obiektowego.
+Kurs ten zawiera skompilowane notatki dotyczące podstawowych aspektów języka Python zaczynając od błędów i wyjątków a kończąc na podstawach programowania obiektowego.  
+Notatki znajdują się w pliku `Python kurs.ipynb` otwieranym przy pomocy Jupyter Notebook.
 
 ## Basics of Python  
 
-This course consists of a compilation of notes touching on the basic aspects of Python language starting from errors and exceptions all the way to the basics of object-oriented programming.
+This course consists of a compilation of notes touching on the basic aspects of Python language starting from errors and exceptions all the way to the basics of object-oriented programming.  
+Notes are in the file named `Python course, ENG.ipynb` opend using Jupyer Notebook.
